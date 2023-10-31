@@ -60,5 +60,6 @@ build*
 .DS_Store
 *.swp
 
-*.vcxproj
-*.filters
+**.vcxproj
+**.filters
+**.user
