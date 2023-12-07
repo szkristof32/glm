@@ -53,6 +53,8 @@ Makefile
 
 # local build(s)
 build*
+bin/
+bin-int/
 
 /.vs
 /.vscode
